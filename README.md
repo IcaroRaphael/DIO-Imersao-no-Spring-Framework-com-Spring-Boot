@@ -1,2 +1,2 @@
 # DIO-Imersao-no-Spring-Framework-com-Spring-Boot
-CURSO: Imersão no Spring Framework com Spring Boot (DIO)
+CURSO: [Imersão no Spring Framework com Spring Boot (DIO)](https://www.dio.me/)
